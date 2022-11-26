@@ -11,6 +11,7 @@ keywords: Databricks, Azure
           <li><a href="{{ BASE_PATH }}/assets/fdagher_resume.pdf">cv</a></li>
           <li><a href="https://github.com/fdagher1">github</a></li>
           <li><a href="https://www.linkedin.com/in/fadi-d-9012b4b/">LinkedIn</a></li>
+          <li><a href="{{ BASE_PATH }}/assets/test.html">HTML</a></li>
       </ul>
   </div>
 </div>
